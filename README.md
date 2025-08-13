@@ -14,7 +14,7 @@ I believe watching your own work “grow up” is one of the most rewarding expe
 ---
 
 ### Hobbies:
-- Reading - my favorite books are Tuesdays with Morrie, the Legend series by Marie Lu, and Eckhart Tolle's Power of Now
+- Reading - my favorite books are Tuesdays with Morrie (current), the Legend series by Marie Lu, and Eckhart Tolle's Power of Now
 - Regular exercise - weightlifting, basketball, pickup sports
 - Watching anime  
 - Rage-baiting my pet dog *Snowy* 🐶  
