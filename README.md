@@ -1,4 +1,4 @@
-# Yo! 👋
+## Yo! 👋
 
 I’m [Surya Atmuri](https://www.linkedin.com/in/surya-atmuri/), a student founder at Georgia Tech driven by one core principle: **solve first, refine later**.  
 
