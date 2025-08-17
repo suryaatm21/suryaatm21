@@ -23,3 +23,9 @@ I believe watching your own work “grow up” is one of the most rewarding expe
 
 ### Let’s Connect:
 surya [at] theuntab [dot] com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
