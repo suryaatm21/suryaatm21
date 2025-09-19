@@ -22,7 +22,7 @@ I believe watching your own work “grow up” is one of the most rewarding expe
 ---
 
 ### Let’s Connect:
-surya [at] theuntab [dot] com
+email: surya [at] theuntab [dot] com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
