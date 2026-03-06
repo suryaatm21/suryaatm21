@@ -16,8 +16,8 @@ Welcome.
 ### Hobbies:
 - Reading - favorite books are Tuesdays with Morrie, the Legend series by Marie Lu, and Eckhart Tolle's Power of Now
 - Regular activity - weightlifting, basketball, pickup sports
-- Watching anime, youtube, and cloud gazing
-- Rage-baiting my dog *Snowy* 🐶  
+- Watching anime, youtube, cloud gazing
+- Ragebaiting my dog *Snowy* 🐶 and younger brother  
 
 ---
 
